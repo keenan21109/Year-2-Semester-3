@@ -1,0 +1,4 @@
+D:\Rosebank college studies\Year 2\Semester 1\PROG6221 2A\POE\AiChatBot\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Rosebank college studies\Year 2\Semester 1\PROG6221 2A\POE\AiChatBot\obj\Debug\net8.0-windows\App.g.cs
+D:\Rosebank college studies\Year 2\Semester 1\PROG6221 2A\POE\AiChatBot\obj\Debug\net8.0-windows\AiChatBot_MarkupCompile.cache
+D:\Rosebank college studies\Year 2\Semester 1\PROG6221 2A\POE\AiChatBot\obj\Debug\net8.0-windows\AiChatBot_MarkupCompile.lref

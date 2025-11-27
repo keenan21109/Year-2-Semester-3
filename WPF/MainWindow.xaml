@@ -1,0 +1,24 @@
+﻿<Window x:Class="AiChatBot.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AiChatBot"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button Content="Click Here" HorizontalAlignment="Center" Height="34" Margin="0,262,0,0" VerticalAlignment="Top" Width="116"/>
+        <RadioButton Content="New User" HorizontalAlignment="Left" Margin="268,0,0,0" VerticalAlignment="Center"/>
+        <RadioButton Content="Login" HorizontalAlignment="Left" Margin="458,0,0,0" VerticalAlignment="Center"/>
+        <TextBlock HorizontalAlignment="Left" Height="76" Margin="268,104,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="255" IsEnabled="False" TextAlignment="Center" FontSize="24" RenderTransformOrigin="0.5,0.5">
+            <TextBlock.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.044"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBlock.RenderTransform><Run Language="en-za" Text="BotSafe "/><LineBreak/><Run Language="en-za" Text="Ai ChatBot"/></TextBlock>
+
+    </Grid>
+</Window>
